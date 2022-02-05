@@ -1,0 +1,19 @@
+1.this code is python code.
+2.in the dict between the double quetation for ex:- "question":"answer". examples is also in code that is commented.
+3. you csn use it in the python terminal or directly clicking on the jerry.py file after download.
+
+                                                warnigs!
+    1.file will automaticly close if there will be any error or if the question does not exists   
+    2.make sure to download the pyinstaller module by using (pip install pyinstaller) from your terminal,powershell or cmd.
+
+
+                                            contact
+    e-mail: mishra.ronit32@gmail.com
+                                           social media    
+    youtube: https://www.youtube.com/channel/UCXueEthmc5Yr0uJgT7j8avQ                                                                               
+
+
+
+
+~ronit
+enjoy! :)
